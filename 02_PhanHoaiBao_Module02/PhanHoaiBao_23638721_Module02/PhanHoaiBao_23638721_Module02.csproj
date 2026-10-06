@@ -65,6 +65,7 @@
     <Compile Include="Bai11Test.cs" />
     <Compile Include="Bai12Test.cs" />
     <Compile Include="Bai13Test.cs" />
+    <Compile Include="UT_Lab_6.cs" />
     <Compile Include="UT_Lab_4.cs" />
     <Compile Include="UT_Lab_5.cs" />
   </ItemGroup>
@@ -73,6 +74,9 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Include="csv\UT_Lab_5.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="csv\UT_Lab_6.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Include="packages.config" />

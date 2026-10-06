@@ -29,3 +29,4 @@ C:\Users\baoph\OneDrive\Desktop\TLHT\KTPM\02_PhanHoaiBao_Module02\PhanHoaiBao_23
 C:\Users\baoph\OneDrive\Desktop\TLHT\KTPM\02_PhanHoaiBao_Module02\PhanHoaiBao_23638721_Module02\obj\Debug\PhanHoaiBao_23638721_Module02.pdb
 C:\Users\baoph\OneDrive\Desktop\TLHT\KTPM\02_PhanHoaiBao_Module02\PhanHoaiBao_23638721_Module02\bin\Debug\csv\UT_Lab_5.csv
 C:\Users\baoph\OneDrive\Desktop\TLHT\KTPM\02_PhanHoaiBao_Module02\PhanHoaiBao_23638721_Module02\bin\Debug\csv\UT_Lab_4.csv
+C:\Users\baoph\OneDrive\Desktop\TLHT\KTPM\02_PhanHoaiBao_Module02\PhanHoaiBao_23638721_Module02\bin\Debug\csv\UT_Lab_6.csv
