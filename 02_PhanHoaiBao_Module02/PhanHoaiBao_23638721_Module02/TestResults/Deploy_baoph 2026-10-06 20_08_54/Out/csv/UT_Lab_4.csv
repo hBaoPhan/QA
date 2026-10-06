@@ -1,0 +1,16 @@
+s,n,p,expected
+hello,2,1,hlo
+hello,10,1,h
+hello,2,-5,hello
+hello,2,8,hello
+hello,-5,1,hello
+hello,2,0,llo
+hello,1,4,hell
+hello,0,1,hello
+hello,4,1,h
+hello,5,1,h
+a,1,0,
+,0,0,
+hello,2,-1,hello
+hello,2,5,hello
+hello,-1,1,hello

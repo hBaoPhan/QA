@@ -1,0 +1,14 @@
+s,p,n,expected
+abcdef,	1,	3,	aef
+abcdef,-2,	3,	abcdef
+abcdef,	7,	3,	abcdef
+abcdef,	4,	-2,	abcdef
+abcdef,	2,	5,	abcdef
+a,	0,	0,	a
+abcdef,	0,	0,	abcdef
+abcdef,	5,	1,	abcde
+abcdef,	2,	4,	ab
+abcdef,	-1,	2,	abcdef
+abcdef,	6,	2,	abcdef
+abcdef,	3,	-1,	abcdef
+abcdef,	3,	4,	abcdef

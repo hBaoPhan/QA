@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\baoph\\OneDrive\\Desktop\\TLHT\\KTPM\\02_PhanHoaiBao_Module02\\PhanHoaiBao_23638721_Module02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC21E30-EBB8-4D87-A959-09FF3AB8C8DD}|PhanHoaiBao_23638721_Module02.csproj|c:\\users\\baoph\\onedrive\\desktop\\tlht\\ktpm\\02_phanhoaibao_module02\\phanhoaibao_23638721_module02\\ut_lab_5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC21E30-EBB8-4D87-A959-09FF3AB8C8DD}|PhanHoaiBao_23638721_Module02.csproj|solutionrelative:ut_lab_5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC21E30-EBB8-4D87-A959-09FF3AB8C8DD}|PhanHoaiBao_23638721_Module02.csproj|c:\\users\\baoph\\onedrive\\desktop\\tlht\\ktpm\\02_phanhoaibao_module02\\phanhoaibao_23638721_module02\\csv\\ut_lab_5.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9AC21E30-EBB8-4D87-A959-09FF3AB8C8DD}|PhanHoaiBao_23638721_Module02.csproj|solutionrelative:csv\\ut_lab_5.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC21E30-EBB8-4D87-A959-09FF3AB8C8DD}|PhanHoaiBao_23638721_Module02.csproj|c:\\users\\baoph\\onedrive\\desktop\\tlht\\ktpm\\02_phanhoaibao_module02\\phanhoaibao_23638721_module02\\bai11test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC21E30-EBB8-4D87-A959-09FF3AB8C8DD}|PhanHoaiBao_23638721_Module02.csproj|solutionrelative:bai11test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC21E30-EBB8-4D87-A959-09FF3AB8C8DD}|PhanHoaiBao_23638721_Module02.csproj|c:\\users\\baoph\\onedrive\\desktop\\tlht\\ktpm\\02_phanhoaibao_module02\\phanhoaibao_23638721_module02\\ut_lab_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC21E30-EBB8-4D87-A959-09FF3AB8C8DD}|PhanHoaiBao_23638721_Module02.csproj|solutionrelative:ut_lab_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC21E30-EBB8-4D87-A959-09FF3AB8C8DD}|PhanHoaiBao_23638721_Module02.csproj|c:\\users\\baoph\\onedrive\\desktop\\tlht\\ktpm\\02_phanhoaibao_module02\\phanhoaibao_23638721_module02\\csv\\ut_lab_4.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9AC21E30-EBB8-4D87-A959-09FF3AB8C8DD}|PhanHoaiBao_23638721_Module02.csproj|solutionrelative:csv\\ut_lab_4.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC21E30-EBB8-4D87-A959-09FF3AB8C8DD}|PhanHoaiBao_23638721_Module02.csproj|c:\\users\\baoph\\onedrive\\desktop\\tlht\\ktpm\\02_phanhoaibao_module02\\phanhoaibao_23638721_module02\\bai13test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC21E30-EBB8-4D87-A959-09FF3AB8C8DD}|PhanHoaiBao_23638721_Module02.csproj|solutionrelative:bai13test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bai11Test.cs",
+              "DocumentMoniker": "C:\\Users\\baoph\\OneDrive\\Desktop\\TLHT\\KTPM\\02_PhanHoaiBao_Module02\\PhanHoaiBao_23638721_Module02\\Bai11Test.cs",
+              "RelativeDocumentMoniker": "Bai11Test.cs",
+              "ToolTip": "C:\\Users\\baoph\\OneDrive\\Desktop\\TLHT\\KTPM\\02_PhanHoaiBao_Module02\\PhanHoaiBao_23638721_Module02\\Bai11Test.cs",
+              "RelativeToolTip": "Bai11Test.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAmwJgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T13:28:31.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UT_Lab_4.csv",
+              "DocumentMoniker": "C:\\Users\\baoph\\OneDrive\\Desktop\\TLHT\\KTPM\\02_PhanHoaiBao_Module02\\PhanHoaiBao_23638721_Module02\\csv\\UT_Lab_4.csv",
+              "RelativeDocumentMoniker": "csv\\UT_Lab_4.csv",
+              "ToolTip": "C:\\Users\\baoph\\OneDrive\\Desktop\\TLHT\\KTPM\\02_PhanHoaiBao_Module02\\PhanHoaiBao_23638721_Module02\\csv\\UT_Lab_4.csv",
+              "RelativeToolTip": "csv\\UT_Lab_4.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-10-06T13:01:58.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UT_Lab_5.csv",
+              "DocumentMoniker": "C:\\Users\\baoph\\OneDrive\\Desktop\\TLHT\\KTPM\\02_PhanHoaiBao_Module02\\PhanHoaiBao_23638721_Module02\\csv\\UT_Lab_5.csv",
+              "RelativeDocumentMoniker": "csv\\UT_Lab_5.csv",
+              "ToolTip": "C:\\Users\\baoph\\OneDrive\\Desktop\\TLHT\\KTPM\\02_PhanHoaiBao_Module02\\PhanHoaiBao_23638721_Module02\\csv\\UT_Lab_5.csv",
+              "RelativeToolTip": "csv\\UT_Lab_5.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-10-06T12:59:22.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UT_Lab_5.cs",
+              "DocumentMoniker": "C:\\Users\\baoph\\OneDrive\\Desktop\\TLHT\\KTPM\\02_PhanHoaiBao_Module02\\PhanHoaiBao_23638721_Module02\\UT_Lab_5.cs",
+              "RelativeDocumentMoniker": "UT_Lab_5.cs",
+              "ToolTip": "C:\\Users\\baoph\\OneDrive\\Desktop\\TLHT\\KTPM\\02_PhanHoaiBao_Module02\\PhanHoaiBao_23638721_Module02\\UT_Lab_5.cs",
+              "RelativeToolTip": "UT_Lab_5.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwBoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T12:42:32.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bai13Test.cs",
+              "DocumentMoniker": "C:\\Users\\baoph\\OneDrive\\Desktop\\TLHT\\KTPM\\02_PhanHoaiBao_Module02\\PhanHoaiBao_23638721_Module02\\Bai13Test.cs",
+              "RelativeDocumentMoniker": "Bai13Test.cs",
+              "ToolTip": "C:\\Users\\baoph\\OneDrive\\Desktop\\TLHT\\KTPM\\02_PhanHoaiBao_Module02\\PhanHoaiBao_23638721_Module02\\Bai13Test.cs",
+              "RelativeToolTip": "Bai13Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T12:42:22.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UT_Lab_4.cs",
+              "DocumentMoniker": "C:\\Users\\baoph\\OneDrive\\Desktop\\TLHT\\KTPM\\02_PhanHoaiBao_Module02\\PhanHoaiBao_23638721_Module02\\UT_Lab_4.cs",
+              "RelativeDocumentMoniker": "UT_Lab_4.cs",
+              "ToolTip": "C:\\Users\\baoph\\OneDrive\\Desktop\\TLHT\\KTPM\\02_PhanHoaiBao_Module02\\PhanHoaiBao_23638721_Module02\\UT_Lab_4.cs",
+              "RelativeToolTip": "UT_Lab_4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T12:42:16.702Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

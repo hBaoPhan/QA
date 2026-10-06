@@ -1,0 +1,15 @@
+s1,s2,s3,expected
+Truong dh CN,dh,dai hoc,Truong dai hoc CN
+dh va dh,dh,DH,DH va DH
+Truong dh CN,,dai hoc,Truong dh CN
+Truong dh CN,dh,,Truong  CN
+,,,
+Truong dh CN,tpHCM,tp Ho Chi Minh,Truong dh CN
+,dh,dai hoc,
+Truong dh CN,Truong,Dai hoc,Dai hoc dh CN
+Truong dh CN,CN,Cong nghiep,Truong dh Cong nghiep
+Truong dh CN,Truong dh CN,IUH,IUH
+Truong dh CN,d,D,Truong Dh CN
+Truong dh CN,xTruong,Dai hoc,Truong dh CN
+Truong dh CN,CNx,Cong nghiep,Truong dh CN
+Truong dh CN,Truong dh CN!,IUH,Truong dh CN
