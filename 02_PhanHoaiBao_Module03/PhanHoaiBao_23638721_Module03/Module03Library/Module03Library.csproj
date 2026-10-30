@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net8.0;net48</TargetFrameworks>
+    <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+    <RootNamespace>Module03Library</RootNamespace>
+    <AssemblyName>Module03Library</AssemblyName>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,14 @@
+s1,s2,s3,expected
+Truong dh cong nghiep,dh,dai hoc,Truong dai hoc cong nghiep
+abcdef,xyz,123,abcdef
+abc,,xyz,abc
+,,,
+null,a,b,Exception
+abc,null,xyz,Exception
+abc,b,null,Exception
+hello world,hello,hi,hi world
+hello world,world,you,hello you
+abc,abc,def,def
+a,a,b,b
+a,a,,
+a,abc,x,a

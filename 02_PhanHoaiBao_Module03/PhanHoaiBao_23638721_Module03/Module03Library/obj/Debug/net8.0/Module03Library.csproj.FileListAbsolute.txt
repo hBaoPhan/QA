@@ -1,0 +1,13 @@
+C:\Users\baoph\OneDrive\Desktop\TLHT\ĐBCLvKTPM\02_PhanHoaiBao_Module03\PhanHoaiBao_23638721_Module03\Module03Library\bin\Debug\net8.0\Module03Library.deps.json
+C:\Users\baoph\OneDrive\Desktop\TLHT\ĐBCLvKTPM\02_PhanHoaiBao_Module03\PhanHoaiBao_23638721_Module03\Module03Library\bin\Debug\net8.0\Module03Library.dll
+C:\Users\baoph\OneDrive\Desktop\TLHT\ĐBCLvKTPM\02_PhanHoaiBao_Module03\PhanHoaiBao_23638721_Module03\Module03Library\bin\Debug\net8.0\Module03Library.pdb
+C:\Users\baoph\OneDrive\Desktop\TLHT\ĐBCLvKTPM\02_PhanHoaiBao_Module03\PhanHoaiBao_23638721_Module03\Module03Library\obj\Debug\net8.0\Module03Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baoph\OneDrive\Desktop\TLHT\ĐBCLvKTPM\02_PhanHoaiBao_Module03\PhanHoaiBao_23638721_Module03\Module03Library\obj\Debug\net8.0\Module03Library.AssemblyInfoInputs.cache
+C:\Users\baoph\OneDrive\Desktop\TLHT\ĐBCLvKTPM\02_PhanHoaiBao_Module03\PhanHoaiBao_23638721_Module03\Module03Library\obj\Debug\net8.0\Module03Library.AssemblyInfo.cs
+C:\Users\baoph\OneDrive\Desktop\TLHT\ĐBCLvKTPM\02_PhanHoaiBao_Module03\PhanHoaiBao_23638721_Module03\Module03Library\obj\Debug\net8.0\Module03Library.csproj.CoreCompileInputs.cache
+C:\Users\baoph\OneDrive\Desktop\TLHT\ĐBCLvKTPM\02_PhanHoaiBao_Module03\PhanHoaiBao_23638721_Module03\Module03Library\obj\Debug\net8.0\Module03Library.sourcelink.json
+C:\Users\baoph\OneDrive\Desktop\TLHT\ĐBCLvKTPM\02_PhanHoaiBao_Module03\PhanHoaiBao_23638721_Module03\Module03Library\obj\Debug\net8.0\Module03Library.dll
+C:\Users\baoph\OneDrive\Desktop\TLHT\ĐBCLvKTPM\02_PhanHoaiBao_Module03\PhanHoaiBao_23638721_Module03\Module03Library\obj\Debug\net8.0\refint\Module03Library.dll
+C:\Users\baoph\OneDrive\Desktop\TLHT\ĐBCLvKTPM\02_PhanHoaiBao_Module03\PhanHoaiBao_23638721_Module03\Module03Library\obj\Debug\net8.0\Module03Library.pdb
+C:\Users\baoph\OneDrive\Desktop\TLHT\ĐBCLvKTPM\02_PhanHoaiBao_Module03\PhanHoaiBao_23638721_Module03\Module03Library\obj\Debug\net8.0\ref\Module03Library.dll
+C:\Users\baoph\OneDrive\Desktop\TLHT\ĐBCLvKTPM\02_PhanHoaiBao_Module03\PhanHoaiBao_23638721_Module03\Module03Library\obj\Debug\net8.0\Module03.33A07AB8.Up2Date

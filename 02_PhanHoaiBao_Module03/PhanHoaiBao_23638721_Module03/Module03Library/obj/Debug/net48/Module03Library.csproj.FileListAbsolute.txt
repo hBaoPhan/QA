@@ -1,0 +1,10 @@
+C:\Users\baoph\OneDrive\Desktop\TLHT\ĐBCLvKTPM\02_PhanHoaiBao_Module03\PhanHoaiBao_23638721_Module03\Module03Library\obj\Debug\net48\Module03Library.csproj.AssemblyReference.cache
+C:\Users\baoph\OneDrive\Desktop\TLHT\ĐBCLvKTPM\02_PhanHoaiBao_Module03\PhanHoaiBao_23638721_Module03\Module03Library\obj\Debug\net48\Module03Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baoph\OneDrive\Desktop\TLHT\ĐBCLvKTPM\02_PhanHoaiBao_Module03\PhanHoaiBao_23638721_Module03\Module03Library\obj\Debug\net48\Module03Library.AssemblyInfoInputs.cache
+C:\Users\baoph\OneDrive\Desktop\TLHT\ĐBCLvKTPM\02_PhanHoaiBao_Module03\PhanHoaiBao_23638721_Module03\Module03Library\obj\Debug\net48\Module03Library.AssemblyInfo.cs
+C:\Users\baoph\OneDrive\Desktop\TLHT\ĐBCLvKTPM\02_PhanHoaiBao_Module03\PhanHoaiBao_23638721_Module03\Module03Library\obj\Debug\net48\Module03Library.csproj.CoreCompileInputs.cache
+C:\Users\baoph\OneDrive\Desktop\TLHT\ĐBCLvKTPM\02_PhanHoaiBao_Module03\PhanHoaiBao_23638721_Module03\Module03Library\obj\Debug\net48\Module03Library.sourcelink.json
+C:\Users\baoph\OneDrive\Desktop\TLHT\ĐBCLvKTPM\02_PhanHoaiBao_Module03\PhanHoaiBao_23638721_Module03\Module03Library\bin\Debug\net48\Module03Library.dll
+C:\Users\baoph\OneDrive\Desktop\TLHT\ĐBCLvKTPM\02_PhanHoaiBao_Module03\PhanHoaiBao_23638721_Module03\Module03Library\bin\Debug\net48\Module03Library.pdb
+C:\Users\baoph\OneDrive\Desktop\TLHT\ĐBCLvKTPM\02_PhanHoaiBao_Module03\PhanHoaiBao_23638721_Module03\Module03Library\obj\Debug\net48\Module03Library.dll
+C:\Users\baoph\OneDrive\Desktop\TLHT\ĐBCLvKTPM\02_PhanHoaiBao_Module03\PhanHoaiBao_23638721_Module03\Module03Library\obj\Debug\net48\Module03Library.pdb
